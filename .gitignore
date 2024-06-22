@@ -18,5 +18,15 @@
 # vendor/
 
 # Go workspace file
-go.work
-go.work.sum
+# go.work
+# go.work.sum
+
+.idea
+
+lcl
+cef
+wk
+wv
+energy
+examples
+assetserve
