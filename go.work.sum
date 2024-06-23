@@ -1,0 +1,7 @@
+github.com/pterm/pterm v0.12.66 h1:bjsoMyUstaarzJ1NG7+1HGT7afR0JVMYsR3ooPeh4bo=
+github.com/pterm/pterm v0.12.66/go.mod h1:nFuT9ZVkkCi8o4L1dtWuYPwDQxggLh4C263qG5nTLpQ=
+golang.org/x/sys v0.11.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.11.0 h1:F9tnn/DA/Im8nCwm+fX+1/eBwi4qFjRT++MhtVC4ZX0=
+golang.org/x/term v0.11.0/go.mod h1:zC9APTIj3jG3FdV/Ons+XE1riIZXG4aZ4GTHiPZJPIU=
+golang.org/x/text v0.12.0/go.mod h1:TvPlkZtksWOMsz7fbANvkp4WM8x/WCo/om8BMLbz+aE=
+golang.org/x/text v0.13.0 h1:ablQoSUd0tRdKxZewP80B+BaqeKJuVhuRxj/dkrun3k=
