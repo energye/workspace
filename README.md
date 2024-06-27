@@ -28,3 +28,5 @@ Go Version >= 1.18
 - 模块添加到工作区
 
 `go work use [module name]`
+
+go build -ldflags="-H windowsgui -w -s"
