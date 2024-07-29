@@ -21,7 +21,6 @@
 # go.work
 # go.work.sum
 
-.idea
 
 lcl
 cef
@@ -30,3 +29,5 @@ wv
 energy
 examples
 assetserve
+gen
+lib
