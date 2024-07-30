@@ -15,6 +15,7 @@ workspace : https://github.com/energye/workspace.git
 | assetserve  | https://github.com/energye/assetserve.git | ✓                | Built-in http static resource service |
 | lib         | https://github.com/energye/lib.git        | x                | Binary dynamic link library           |
 | gen         | https://gitee.com/energye/gen.git         | x                | Code generation                       |
+| gitpp       | https://gitee.com/snxamdf/gitpp.git       | x                | Git auto pull push cmd                |
 
 
 # Go workspace 
