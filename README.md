@@ -20,7 +20,7 @@ workspace : https://github.com/energye/workspace.git
 
 # Go workspace 
 
-Go Version >= 1.18
+Go Version >= 1.20
 
 - 初始化 go workspace
 
