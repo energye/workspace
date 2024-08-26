@@ -4,7 +4,7 @@ workspace : https://github.com/energye/workspace.git
 
 # Module 3.0
 
-| Module name | Repository addr                           | Usable depend on | Desc                                  |
+| Module name | Repository addr                           | Use depend       | Desc                                  |
 |-------------|-------------------------------------------|------------------|---------------------------------------|
 | lcl         | https://github.com/energye/lcl.git        | ✓                | LCL basic library                     |
 | cef         | https://github.com/energye/cef.git        | ✓                | CEF basic library                     |
