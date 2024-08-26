@@ -31,4 +31,5 @@ Go Version >= 1.20
 `go work use [module name]`
 
 `go build -ldflags="-H windowsgui -w -s"`
+
 `go build -ldflags="-w -s"`
