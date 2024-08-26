@@ -26,9 +26,9 @@ Go Version >= 1.20
 
 `go work init`
 
-- 模块添加到工作区
+- 将使用的模块添加到工作区
 
 `go work use [module name]`
 
-go build -ldflags="-H windowsgui -w -s"
-go build -ldflags="-w -s"
+`go build -ldflags="-H windowsgui -w -s"`
+`go build -ldflags="-w -s"`
