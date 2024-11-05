@@ -8,8 +8,7 @@ workspace : https://github.com/energye/workspace.git
 |-------------|----------------------------------------------|------------|----------------------------------------------------------|---------|
 | lcl         | https://github.com/energye/lcl.git           | ✓          | LCL basic library                                        | public  |
 | cef         | https://github.com/energye/cef.git           | ✓          | CEF basic library                                        | public  |
-| wv          | https://github.com/energye/wv.git            | ✓          | Webview2 basic library                                   | public  |
-| wk          | https://github.com/energye/wk.git            | ✓          | Webkit basic library                                     | public  |
+| wv          | https://github.com/energye/wv.git            | ✓          | Webview2,Webkit2 basic library                           | public  |
 | energy      | https://github.com/energye/energy.git        | ✓          | Energy framework                                         | public  |
 | examples    | https://github.com/energye/examples.git      | ✓          | All examples                                             | public  |
 | assetserve  | https://github.com/energye/assetserve.git    | ✓          | Built-in http static resource service                    | public  |
