@@ -4,7 +4,6 @@ use (
 	./lcl
 	./cef
 	./wv
-	./wk
 	./energy
 	./examples
 	./assetserve
