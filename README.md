@@ -35,3 +35,5 @@ Go Version >= 1.20
 `go build -ldflags="-H windowsgui -w -s"`
 
 `go build -ldflags="-w -s"`
+
+[![Star](https://gitcode.com/energye/energy/star/badge.svg)]()
