@@ -32,3 +32,5 @@ examples
 assetserve
 gen
 lib
+out
+logs
