@@ -8,5 +8,4 @@ use (
 	./examples
 	./assetserve
 	./gen
-	./rawhttp
 )
