@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cef" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/energy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/examples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lcl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib" vcs="Git" />
