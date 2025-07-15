@@ -5,4 +5,5 @@ use (
 	./gen/gout/cef/go
 	./gen/gout/wv/go
 	./gen
+	./examples
 )
