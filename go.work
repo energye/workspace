@@ -6,4 +6,5 @@ use (
 	./gen/gout/wv/go
 	./gen
 	./examples
+	./cefapi
 )
