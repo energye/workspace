@@ -94,12 +94,16 @@ func CreateRefCounted(userDataSize uintptr, managedBy RefCountedType) *GoRefCoun
 
 	// 设置用户数据区域指针
 	if userDataSize > 0 {
-		userDataStart := unsafe.Add(cefBasePtr, C.sizeof_cef_base_ref_counted_t)
+		userDataStart := unsafe.Add(cefBasePtr, int(C.sizeof_cef_base_ref_counted_t))
 		grc.userDataPtr = userDataStart
 		C.memset(userDataStart, 0, C.size_t(userDataSize))
 	}
 
 	return grc
+}
+
+func BaseRefCountedSize() uintptr {
+	return C.sizeof_cef_base_ref_counted_t
 }
 
 // CreateBaseScoped 创建范围对象
