@@ -7,4 +7,5 @@ use (
 	./gen
 	./examples
 	./cefapi
+	./assetserve
 )
