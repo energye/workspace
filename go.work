@@ -8,4 +8,5 @@ use (
 	./examples
 	./cefapi
 	./assetserve
+	./widget
 )
