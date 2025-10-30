@@ -6,6 +6,7 @@ use (
 	./gen/gout/wv/go
 	./gen
 	./examples
+	./examples/lcl/opengl-cube
 	./assetserve
 	./widget
 	./energy
