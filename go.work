@@ -9,4 +9,6 @@ use (
 	./assetserve
 	./widget
 	energy
+	./gotk3
+	./designer
 )
