@@ -6,9 +6,11 @@ use (
 	./gen/gout/wv/go
 	./gen
 	./examples
+	./examples/lcl/opengl-cube
+	./test
 	./assetserve
 	./widget
-	energy
+	./energy
 	./gotk3
 	./designer
 )
