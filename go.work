@@ -1,17 +1,14 @@
 go 1.20
 
 use (
-	./gen/gout/cef/go
-	./gen/gout/wv/go
 	./gen
 	./examples
 	./examples/lcl/opengl-cube
-	./test
-	./test1
 	./assetserve
 	./widget
 	./energy
-	./gotk3
 	./designer
 	./lcl
+	./cef
+	./wv
 )
