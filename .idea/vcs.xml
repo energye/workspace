@@ -13,7 +13,6 @@
     <mapping directory="$PROJECT_DIR$/lazarus-patch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lcl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/webview2api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/widget" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wv" vcs="Git" />
   </component>
