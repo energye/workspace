@@ -4,21 +4,21 @@ workspace : https://github.com/energye/workspace.git
 
 # Module 3.0
 
-| Module name | Repository addr                              | Use depend | Desc                                                     | Type    |
-|-------------|----------------------------------------------|------------|----------------------------------------------------------|---------|
-| lcl         | https://github.com/energye/lcl.git           | ✓          | LCL basic library                                        | public  |
-| cef         | https://github.com/energye/cef.git           | ✓          | CEF basic library                                        | public  |
-| wv          | https://github.com/energye/wv.git            | ✓          | Webview2,Webkit2 basic library                           | public  |
-| energy      | https://github.com/energye/energy.git        | ✓          | Energy framework                                         | public  |
-| examples    | https://github.com/energye/examples.git      | ✓          | All examples                                             | public  |
-| assetserve  | https://github.com/energye/assetserve.git    | ✓          | Built-in http static resource service                    | public  |
-| lib         | https://github.com/energye/lib.git           | x          | Binary dynamic link library                              | private |
-| gen         | https://gitee.com/energye/gen.git            | x          | Code generation                                          | private |
-| doc-api     | https://gitee.com/energye/energy-doc-api.git | x          | Server API, Website publishing and binary file reception | private |
-| workflows   | https://github.com/energye/workflows.git     | x          | Workflows: Automatic publishing                          | private |
-| gitpp       | https://gitee.com/snxamdf/gitpp.git          | x          | Git auto pull push cmd                                   | public  |
-| energy-doc  | https://github.com/energye/energye.github.io | x          | Energy DOC                                               | public  |
-
+| Module name   | Repository addr                              | Use depend | Desc                                                     | Type    |
+|---------------|----------------------------------------------|------------|----------------------------------------------------------|---------|
+| lcl           | https://github.com/energye/lcl.git           | ✓          | LCL basic library                                        | public  |
+| cef           | https://github.com/energye/cef.git           | ✓          | CEF basic library                                        | public  |
+| wv            | https://github.com/energye/wv.git            | ✓          | Webview2,Webkit2 basic library                           | public  |
+| energy        | https://github.com/energye/energy.git        | ✓          | Energy framework                                         | public  |
+| examples      | https://github.com/energye/examples.git      | ✓          | All examples                                             | public  |
+| assetserve    | https://github.com/energye/assetserve.git    | ✓          | Built-in http static resource service                    | public  |
+| lib           | https://github.com/energye/lib.git           | x          | Binary dynamic link library                              | private |
+| gen           | https://gitee.com/energye/gen.git            | x          | Code generation                                          | private |
+| doc-api       | https://gitee.com/energye/energy-doc-api.git | x          | Server API, Website publishing and binary file reception | private |
+| workflows     | https://github.com/energye/workflows.git     | x          | Workflows: Automatic publishing                          | private |
+| gitpp         | https://gitee.com/snxamdf/gitpp.git          | x          | Git auto pull push cmd                                   | public  |
+| energy-doc    | https://github.com/energye/energye.github.io | x          | Energy DOC                                               | public  |
+| lazarus-patch | https://gitee.com/snxamdf/lazarus-patch.git  | x          | docker gen                                               | public  |
 
 # Go workspace 
 
