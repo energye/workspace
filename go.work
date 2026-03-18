@@ -8,7 +8,8 @@ use (
 	./widget
 	./energy
 	./designer
-	./lcl
+	//./lcl
+	./gen/gout/lcl/go
 	./cef
 	./wv
 )
