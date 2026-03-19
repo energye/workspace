@@ -12,5 +12,6 @@ use (
 	./gen/gout/lcl/go
 	//./cef
 	./gen/gout/cef/go
-	./wv
+	//./wv
+	./gen/gout/wv/go
 )
