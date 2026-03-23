@@ -8,10 +8,10 @@ use (
 	./widget
 	./energy
 	./designer
-	//./lcl
-	./gen/gout/lcl/go
-	//./cef
-	./gen/gout/cef/go
-	//./wv
-	./gen/gout/wv/go
+	./lcl
+	//./gen/gout/lcl/go
+	./cef
+	//./gen/gout/cef/go
+	./wv
+	//./gen/gout/wv/go
 )
